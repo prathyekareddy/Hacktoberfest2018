@@ -250,6 +250,10 @@
 - Bio: I'm Web Java Developer with Experience in Eclipse RCP.
 - Programming Language: Java, Springboot, REST API, Eclipse RCP, Machine Learning
 
+#### Name [Lavanyareddyu5](https://github.com/Lavanyareddyu5)
+- Bio: Computer Science under graduate.
+- Programming Language: Java,c,c++,sql,packet tracer,html.
+
 #### Name [Josh Caulfield](https://github.com/coolfield)
 - Bio: Learning Python to build web apps
 - Programming Language: Python, Django, JavaScript
