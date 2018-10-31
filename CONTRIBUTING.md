@@ -249,3 +249,7 @@
 ### Name [Harikrushna Vanpariya](https://github.com/hgvanpariya)
 - Bio: I'm Web Java Developer with Experience in Eclipse RCP.
 - Programming Language: Java, Springboot, REST API, Eclipse RCP, Machine Learning
+
+### Name [Max Wendel Ferreira Freire Araújo](https://github.com/Max-Wendel-UFC)
+- Bio: I'm student by Analyst Sistem from University Federal of Ceará (UFC).
+- Programming Language: Java, Python, JavaScript, C, TypeScript, Kotlin, Prolog.
